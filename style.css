@@ -27,7 +27,7 @@ body {
     padding-right: 200px;
 }
 
-.header-list-link {
+.header-list-link, #header-a1 {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -35,6 +35,10 @@ body {
 .logo {
     color: #F9FAF8;
     font-size: 24px;
+}
+
+#header-a1 {
+    text-decoration: none;
 }
 
 .hero {
