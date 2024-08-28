@@ -125,3 +125,24 @@ body {
     font-size: 18px;
     color: #1F2937;
 }
+
+.quote {
+    padding: 100px;
+    background-color: #E5E7EB;
+    justify-content: center;
+}
+
+.quote-body {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    width: 600px;
+}
+
+.quote-author {
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: bold;
+    margin-left: auto;
+}
