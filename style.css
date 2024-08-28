@@ -146,3 +146,43 @@ body {
     font-weight: bold;
     margin-left: auto;
 }
+
+.register {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 25px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    justify-content: center;
+}
+
+.register-body {
+    gap: 100px;
+    align-items: center;
+}
+
+.register-list {
+    list-style-type: none;
+    color: #F9FAF8;
+}
+
+#register-l1 {
+    font-weight: bold;
+}
+
+#register-l2 {
+    font-size: 12px;
+}
+
+#register-btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
